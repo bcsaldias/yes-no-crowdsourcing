@@ -8,10 +8,13 @@ The resources in this repository are part of the proposed model and experiments 
 As describe in the paper, we set up two experiments: 1) labeling irregular time-series of the Catalina Surveys; 2) labeling animals.
 
 In each folder, *catalina* and *animals* (respectively to experiments 1) and 2)), you can find four files:
-    - `objects.csv`: contains each object presented to the labelers, along with some features that we used to inform the users (not all of them where shown, but we make all data available). In addition, the last four variables: `Var_Type`, `_training`, `_validation`, `_abc`, indicate the ground truth, whether the objects are part of the prior credibilities training process, used for test or validations, plus a variable that indicates whether the object was also used to ask ABCD questions to the labelers, respectively.
-    - `users.csv`: indicates how many questions were randomly assigned to each user when they enrolled the labeling task - note that not all users annotated all objects; hence, we worked with the ones that completed at least 70\% of the task.
-    - `votes_abcd.cs`
-    - `votes_yn.cs`
+- `objects.csv`: contains each object presented to the labelers, along with some features that we used to inform the users (not all of them where shown, but we make all data available). In addition, the last four variables: `Var_Type`, `_training`, `_validation`, `_abc`, indicate the ground truth, whether the objects are part of the prior credibilities training process, used for test or validations, plus a variable that indicates whether the object was also used to ask ABCD questions to the labelers, respectively.
+    
+- `users.csv`: indicates how many questions were randomly assigned to each user when they enrolled the labeling task - note that not all users annotated all objects; hence, we worked with the ones that completed at least 70\% of the task.
+    
+- `votes_abcd.cs`
+    
+- `votes_yn.cs`
     
 
 ## Implementation details and usage
