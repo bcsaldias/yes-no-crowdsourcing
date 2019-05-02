@@ -1,4 +1,4 @@
-catalina_id,colour,conservation_status,diet,family,genus,habitat,kingdom,life_span,lifestyle,order,phylum,predators,skin_type,top_speed,weight,Var_Type,_training,_validation,_abc
+animal_id,colour,conservation_status,diet,family,genus,habitat,kingdom,life_span,lifestyle,order,phylum,predators,skin_type,top_speed,weight,Var_Type,_training,_validation,_abc
 0,"Marrón, gris, amarillo",Menor preocupación,Omnívoro,Orycteropodidae,Orycteropus,Suelo arenoso y arcilloso,Animalia,23 años,Nocturno,Tubulidentata,Chordata,"Leones, leopardos, hienas",Cabello,40kph (25 mph),60kg - 80kg (130lbs - 180lbs),Mamífero,false,true,false
 2,Negro con pecho blanco,Menor preocupación,Carnívoro,Spheniscidae,Pygoscelis,Tierra y océano antárticos,Animalia,10 - 20 años,Diurno,Sphenisciformes,Chordata,"Sello del leopardo, gaviota de Skua, orca",Plumas,72kph (45 mph),3kg - 6kg (7lbs - 13lbs),Ave,false,true,true
 5,Gris marrón,Amenazado,Herbívoro,Elefantidae,Loxodonta,"Bosque, sabana y llanuras de inundación",Animalia,60 - 70 años,Diurno,Proboscidea,Chordata,"Humanos, León, Hiena",Cuero,40kph (25 mph),"3,600kg - 5,400kg (7,900lbs - 12,000lbs)",Mamífero,false,true,false
